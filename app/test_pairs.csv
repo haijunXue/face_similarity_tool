@@ -1,0 +1,5 @@
+image1,image2,label
+person1_a.jpg,person1_b.jpg,1
+person2_a.jpg,person2_b.jpg,1
+person1_a.jpg,person2_a.jpg,0
+person1_b.jpg,person2_b.jpg,0

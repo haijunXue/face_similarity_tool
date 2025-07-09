@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+facenet-pytorch
+torch
+torchvision
+opencv-python
+pillow
+requests

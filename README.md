@@ -18,6 +18,7 @@ Ein Deep-Learning-Tool zur Bewertung der Gesichtähnlichkeit zwischen Nutzer- un
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/deinname/face-similarity-tool
+git clone https://github.com/deinname/face-similarity-tool](https://github.com/haijunXue/face_similarity_tool.git
+
 cd face_similarity_tool
 pip install -r requirements.txt

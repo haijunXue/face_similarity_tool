@@ -1,4 +1,5 @@
-<img width="961" height="1251" alt="image" src="https://github.com/user-attachments/assets/4f90a829-7a37-4956-ba29-a566f855ab19" />
+<img width="1076" height="1306" alt="image" src="https://github.com/user-attachments/assets/6ff33215-f6cc-4214-b564-fb1775c86471" />
+
 
 Face Similarity Tool
 Ein KI-basiertes Tool zur Gesichtsvergleichsanalyse, das auf FaceNet und MTCNN aufbaut. Die Anwendung besteht aus einem FastAPI-Backend und einem Streamlit-Frontend.
